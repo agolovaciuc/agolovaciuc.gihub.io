@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4270ec;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Vector_Stroke_" data-name="Vector (Stroke)" class="cls-1" d="M6.833,0a1,1,0,0,1,1,1V15a1,1,0,1,1-2,0V1A1,1,0,0,1,6.833,0Z"/>
+  <path id="Vector_Stroke_2" data-name="Vector (Stroke)" class="cls-1" d="M0.31,8.151a1,1,0,0,1,1.414.035L6.833,13.55l5.109-5.365a1,1,0,1,1,1.448,1.379L7.557,15.689a1,1,0,0,1-1.448,0L0.276,9.564A1,1,0,0,1,.31,8.151Z"/>
+</svg>
